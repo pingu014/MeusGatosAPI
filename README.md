@@ -1,4 +1,4 @@
-### MeusGatosAPI :smile_cat:
+### MeusGatosAPI :smile_cat: @alexmota-dev
 Downloads [.NET SDK](https://dotnet.microsoft.com/download) & [Visual Studio](https://visualstudio.microsoft.com/)
 
 
@@ -177,4 +177,4 @@ C:\Users\pingo014> cd GatosApi
 C:\Users\pingo014\GatosApi> dotnet run
 ```
 > [!NOTE]
-> Pode ser que dê algum conflito(foi codado com o pc todo f#dido).
+> Pode ser que dê algum conflito(foi codado com o pc cheio de problemas).
